@@ -51,7 +51,6 @@ graph TD
     C -- Yes --> D[LoRa TX]
     C -- No --> E[Deep Sleep]
     D --> F[LoRa Gateway]
-    F -->|Serial/WiFi| G[ROS 2 Bridge]
     G -->|JSON/HTTP| H[Flask Server]
     
     I[Community User] -->|USSD| J[Africa's Talking API]
