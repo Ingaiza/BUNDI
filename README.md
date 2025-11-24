@@ -1,4 +1,4 @@
-# 🦉 BUNDI: AI-Driven Bio-Acoustic Surveillance
+# 🦉 BUNDI: Real-Time Bio-Acoustic Surveillance
 
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![Python](https://img.shields.io/badge/python-3.9%2B-blue)
