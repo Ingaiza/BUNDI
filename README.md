@@ -5,7 +5,7 @@
 ![Hardware](https://img.shields.io/badge/hardware-ESP32--S3%20%7C%20LoRa-yellow)
 ![Status](https://img.shields.io/badge/status-Production-brightgreen)
 
-**BUNDI** (Swahili for *Owl*) is a scalable, real-time acoustic monitoring network designed to protect the **Kakamega Forest Ecosystem** in Kenya. It uses a network of solar-powered edge devices to detect illegal logging (chainsaws) and poaching activity, relaying alerts to a "Bioluminescent" Command Center via a LoRa Mesh network.
+**BUNDI** is a scalable, real-time acoustic monitoring network designed to protect **Forest Ecosystems** in Kenya. It uses a network of edge devices to detect illegal logging (chainsaws) and poaching activity, relaying alerts to a Command Center via a LoRa Mesh network.
 
 Uniquely, BUNDI integrates a **Blockchain-backed USSD Community Ledger**, allowing local residents to submit anonymous, immutable reports of environmental crimes using basic feature phones.
 
