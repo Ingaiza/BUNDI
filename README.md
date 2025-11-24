@@ -13,7 +13,12 @@ Uniquely, BUNDI integrates a **Blockchain-backed USSD Community Ledger**, allowi
 
 ## 📸 Command Center Dashboard
 
-*(Add your screenshots here, e.g., dashboard_main.png)*
+![BUNDI Dashboard](images/dashboard_1.png)
+![BUNDI Dashboard](images/dashboard_2.png)
+![BUNDI Dashboard](images/dashboard_3.png)
+![BUNDI SMS REPORTS](images/sms_window_1.png)
+![BUNDI SMS REPORTS](images/sms_window_2.png)
+
 > The BUNDI Commander Interface features real-time node tracking, precision threat timelines, and hotspot analysis.
 
 ---
